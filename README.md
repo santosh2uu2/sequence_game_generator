@@ -20,7 +20,7 @@ This project is a Sequence Game Generator that uses LEDs to create a memory chal
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/sequencegamegenerator.git
+   git clone https://github.com/santosh2uu2/sequencegamegenerator.git
    ```
 2. **Open the Project in Your IDE**: Open the cloned project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. **Build the Project**: Compile the project using your IDE's build tools.
